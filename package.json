@@ -8,7 +8,7 @@
     "package": "electron-forge package",
     "make": "electron-forge make"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/mreuter/3cx-app.git",
   "keywords": [
     "Electron",
     "quick",
